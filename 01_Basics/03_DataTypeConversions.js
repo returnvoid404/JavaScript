@@ -1,4 +1,3 @@
-/*
 let score = "33";
 console.log(typeof(score));
 console.log(typeof score);
@@ -30,7 +29,7 @@ score = true;
 valueInNumber = Number(score);
 console.log(typeof(valueInNumber));
 console.log(valueInNumber); //Gives 1
-*/
+
 
 let isLoggedIn = 1;
 let booleanIsLoggedIn = Boolean(isLoggedIn);
